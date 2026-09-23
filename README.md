@@ -12,19 +12,16 @@
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+​ <p>Student of technology and design :)</p>
+<ul>
+  <li>🌱 I’m currently studying Software Engineering at iCET Institute and exploring Cybersecurity. I believe that every day is a learning opportunity.</li>
+  <li>🏙 Founder & Creator at <strong>Sheshan</strong> – specializing in Digital Marketing, Graphic Design, and Retail.</li>
+  <li>💁‍♂️ Passionate about using Generative AI tools for creative design and business solutions.</li>
+  <li>✍ I work on everything from web development (HTML, WordPress) to creating high-performance automotive digital art.</li>
+  <li>❤ Always upgrading my skills, from IT to woodworking!</li>
+  <li>💻 Visit my <a href="YOUR_LINK_HERE">Portfolio / Facebook Page</a> to see my latest digital marketing and design projects.</li>
+</ul>
 <!--End Intro-->
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p>
 
 ---
 <br />
@@ -37,24 +34,6 @@
 <br />
 
 
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/Kiran1689/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kiran1689&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
-</p>
-<br />
-
-
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
-</div>
-
----
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
@@ -74,18 +53,18 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+<a href="jayavisheshan@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=jayavisheshan@gmail.com mail style="margin-bottom: 5px;" />
 </a>
+
+<a href="https://twitter.com/kiran__a__n" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
+</a>
+</div>
 
 <a href="https://www.instagram.com/kiran_a_n" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
 </a>
-
-<a href="https://twitter.com/kiran__a__n" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
-</a>
-</div>
 
 <!--Footer--> 
 <p align="center">
