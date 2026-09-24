@@ -19,7 +19,7 @@
   <li>💁‍♂️ Passionate about using Generative AI tools for creative design and business solutions.</li>
   <li>✍ I work on everything from web development (HTML, WordPress) to creating high-performance automotive digital art.</li>
   <li>❤ Always upgrading my skills, from IT to woodworking!</li>
-  <li>💻 Visit my <a href="YOUR_LINK_HERE">Portfolio / Facebook Page</a> to see my latest digital marketing and design projects.</li>
+  <li>💻 Visit my <a href="https://www.facebook.com/share/1BxnoYdKbD/">Facebook Page</a> to see my latest digital marketing and design projects.</li>
 </ul>
 <!--End Intro-->
 
@@ -49,22 +49,27 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+  
   
 <a href="jayavisheshan@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=jayavisheshan@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/kiran__a__n" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
+ <a href="https://www.linkedin.com/in/jayavi-sheshan-a794b3439 " target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
+<a href="https://www.facebook.com/jayavi.sheshan?mibextid=ZbWKwL" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="https://www.facebook.com/jayavi.sheshan?mibextid=ZbWKwL" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/sheshan_fdo23?stkn=dGtlam51ZTRxNW9r" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="https://www.instagram.com/sheshan_fdo23?stkn=dGtlam51ZTRxNW9r" style="margin-bottom: 5px;" />
+</a>
+
 </div>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
-</a>
+
 
 <!--Footer--> 
 <p align="center">
@@ -73,6 +78,6 @@
 
 ------
 
-Credit: [Kiran1689](https://github.com/Kiran1689)
+Credit: [Sheshan Fernando](https://github.com/sheshanfdo23)
 
-Last Edited on: 29/11/2023
+Last Edited on: 23/09/2026
